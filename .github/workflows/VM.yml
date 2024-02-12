@@ -11,4 +11,4 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Copy to host directory
-        run: powershell Copy-Item -Path C:\Users\Administrator\actions-runner\_work\DDD_VMPage\* -Destination C:\inetpub\wwwroot -force
+        run: powershell Copy-Item -Path C:\Users\Administrator\actions-runner\_work\DDD_VMPage\DDD_VMPage\* -Destination C:\inetpub\wwwroot -force
