@@ -1,0 +1,12 @@
+﻿100-100¬
+IntroData;
+LHi, I'm Simon! nice to meet you;
+LI hope you enjoy your time at the university of Hull;
+LIll see you in a lecture soon i'm sure;
+}
+empty;
+}
+empty;
+}
+empty;
+}

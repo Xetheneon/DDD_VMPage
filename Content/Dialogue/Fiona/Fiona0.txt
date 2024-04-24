@@ -1,0 +1,37 @@
+﻿100-100¬
+IntroData;
+LHi, I'm Professor Fiona Polack;
+LYou must be the new student, I am the Professor and Head of the School of computer science;
+LThis here is the Robert Blackburn Building, where you will be spending a lot of your time;
+LThe building was named after Robert Blackburn, an aviation pioneer from Leeds;
+LThe building was built <WHEN WAS THE ROBERT BLACKBURN BUILDING BUILT>, and has been a hub for innovation ever since!;
+LIf you have any questions, or want to learn more about the staff in the computer science department, come back outside and ask away!;
+LI'll leave you to get settled now, feel free to take a stroll through the building now, get familiarised.;
+}
+What should I do?;
+LYou should talk to David, he can help you settle in a bit more, last I saw him was down the main corridor on the first floor of the Robert Blackburn Building;
+LI'll see you around;
+}
+Can you tell me about the staff in the computer science department;
+LSure!;
+LSimon Grey has been a lecturer here for more than 10 years. He specialises in the games and graphics side of Computer Science.;
+LHe teaches a range of topics from foundation to the Masters. So I'm sure you'll get to know him quite well.;
+LHe is also a great advocate for the extra-curricular activities, such as game jams and coding competition.;
+LJohn Dixon has been actively invloved in digital development since 2005.;
+LHe is currently the Programme Lead for Computere Science in the School of Computer Science.;
+LHe has a track record for spearheading a range of projects, from small prototypes to multi-million pound organisation such as "Sky UK", "NHS", "Team GB", and many more.;
+LWarren J. Viant has over 20 years of research experience and numerous publications in simulation and modelling iwthin computer systems.;
+LHe has done research that spans parallel programming and dependable systems research at British Aerospace - 2D/3D simulation, modelling and virtual/augmented/mixed reality at the University of Hull.;
+LHe returned to full-time research in 2015, following 3 successive terms as Head of Computer Science.;
+LNeil Gordon is an advocate for the effective development and use of technology for teaching.;
+LAfter a joint degree in Mathematics and Computer Science, he went on to complete a PhD in Applied Mathematics.;
+LHe has been with us a lecturer for Computer Science in 200.;
+LJohn Whelan is a Senior Fellow of the Higher Education Academy and is passionat about student experience and enhancing engagement with learning.;
+LOver the past 20 years his teaching has included Software Engineering, Visualisation and User Experience Design.;
+LWith a PhD in Computer Graphics and Visual Perception from the University of Hull, he has taught at Hull's pioneering Centre for Internet Computing in 2001, the Design Computing Lab at the University of Sydney and within Engineering at Brunel University London.;
+LDavid Parker has been a lecturer at University of Hull, in the Department of Computer Science and Technology since 2011.;
+LYou should go talk to him.;
+LLet me know if you have any more problems!;
+}
+empty;
+}

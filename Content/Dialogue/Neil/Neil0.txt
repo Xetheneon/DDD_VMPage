@@ -1,0 +1,11 @@
+﻿100-100¬
+IntroData;
+LHi, I'm Neil, nice to meet you!;
+LI hope you get settled nicely, I think you will fit in really well here.;
+}
+empty;
+}
+empty;
+}
+empty;
+}
